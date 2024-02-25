@@ -93,7 +93,7 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-os.system('xdg-open https://facebook.com/groups/3469646809936365/')
+os.system('xdg-open https://facebook.com/groups/735938121346293/')
 os.system('clear')
 logo =("""\033[0;92m
 \033[1;32m
@@ -223,7 +223,7 @@ def xxr():
         jalan(f'{x}[{xr}^{x}]\033[0;92m WAIT FOR YOUR ID CLONING START')
         jalan(f'\033[0;97m[{xr}^{x}]\033[0;93m USE YOUR MOBILE DATA ')
         jalan(f'\033[0;97m[{xr}^{x}] \x1b[38;5;208mUSE FLIGHT MODE FOR OK ID')
-        jalan(f'\033[0;97m[{xr}^{x}] \033[0;95m M-H404 TOOLS FASTER COLONING')
+        jalan(f'\033[0;97m[{xr}^{x}] \033[0;95m LABIN TOOLS FASTER COLONING')
         jalan('\033[1;97m==================================================')
         for love in user:
             pwx = [love[1:]]
